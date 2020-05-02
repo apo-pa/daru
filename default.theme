@@ -1,0 +1,122 @@
+ThemeDescription=""
+ThemeAuthor="Apostolos Papadimitriu, apostolos@outlook.com.gr"
+Look=flat
+# Even if it is not that obvious I started with Helix theme as a base, Helix theme authors: "RudeSka... Sort of.  TigerT did the art"
+
+TitleButtonsLeft="s"
+TitleButtonsRight="xmi"
+TitleBarCentered=1
+TitleBarHeight=22
+
+BorderSizeX=2
+BorderSizeY=2
+CornerSizeX=28
+CornerSizeY=28
+DlgBorderSizeX=2
+DlgBorderSizeY=2
+
+# Border color of active and 'normal' (inactive) windows
+# Note: Consider using different colors for inactive borders
+ColorNormalBorder=#444444
+ColorActiveBorder=#444444
+
+#Text color of the titlebar
+ColorNormalTitleBarText="#f7f7f7"
+ColorActiveTitleBarText="#f7f7f7"
+
+# Taskbar and Menu
+ColorDefaultTaskBar="#444444"
+ColorNormalTaskBarApp="#444444"
+ColorNormalTaskBarAppText="#f7f7f7"
+ColorActiveTaskBarApp="#7d2b4f"
+ColorActiveTaskBarAppText="#f7f7f7"
+ColorMinimizedTaskBarApp="#303030"
+ColorMinimizedTaskBarAppText="#c6c6c6"
+
+ColorNormalMenu="#c6c6c6"
+ColorActiveMenuItem="#7d2b4f"
+ColorNormalMenuItemText="#444444"
+ColorActiveMenuItemText="#f7f7f7"
+ColorDisabledMenuItemText="#dcdcdc"
+
+# Background and text color of Start menu, Show Desktop and Toolbar (App Launchers) buttons
+ColorNormalButton="#444444"
+ColorNormalButtonText="#c6c6c6"
+
+# Color of Active buttons e.g the color of the pager
+ColorActiveButton="#7d2b4f"
+ColorActiveButtonText="#f7f7f7"
+
+# Background and text color of the clock
+ColorClock="#444444"
+ColorClockText="#c6c6c6"
+
+# Other 
+ColorApm="#444444"
+ColorApmText="#c6c6c6"
+ColorCPUStatusIdle="#444444"
+ColorNetIdle="#444444"
+ColorMEMStatusFree="#444444"
+
+# Color of Move Size Status (It is shown when someone moves the window)
+ColorMoveSizeStatus="#7d2b4f"
+ColorMoveSizeStatusText="#f7f7f7"
+
+#QuickSwitch (Alt+Tab) color
+ColorQuickSwitch="#444444"
+ColorQuickSwitchText="#c6c6c6"
+ColorQuickSwitchActive="#7d2b4f"
+
+#Colors of list boxes e.g. the Window list
+ColorListBox="#f7f7f7"
+ColorListBoxSelection="#7d2b4f"
+ColorListBoxSelectionText="f7f7f7"
+
+#Color of Scrollbars (used in some windows like the WindowList window)
+ColorScrollBar="#c6c6c6"
+ColorScrollBarSlider="#444444"
+ColorScrollBarButton="#c6c6c6"
+
+#Color of Dialogs e.g the logout dialog 
+ColorDialog="#f7f7f7"
+ColorDialogText="#444444"
+
+ColorLabel="#f7f7f7"
+ColorLabelText="#444444"
+
+#Color of Tooltips
+ColorToolTip="#c6c6c6"
+ColorToolTipText="#444444"
+
+# Desktop background color and/or image
+DesktopBackgroundColor="#acc1c6"
+#DesktopBackgroundImage=""
+
+# Fonts
+ActiveButtonFontNameXft="Ubuntu:size=11,Sans:size=11"
+NormalButtonFontNameXft="Ubuntu:size=11,Sans:size=11"
+
+ClockFontNameXft="Ubuntu:size=11,Sans:size=11"
+
+QuickSwitchFontNameXft="Ubuntu:size=14,Sans:size=11"
+
+ListBoxFontNameXft="Ubuntu:size=11,Sans:size=11"
+
+MenuFontNameXft="Ubuntu:size=11,Sans:size=11"
+
+StatusFontNameXft="Ubuntu:size=11,Sans:size=11"
+
+TitleFontNameXft="Ubuntu:size=11,Sans:size=11"
+
+ToolTipFontNameXft="Ubuntu:size=10,Sans:size=10"
+
+
+# Misc.
+ShowMenuButtonIcon=1
+
+
+
+
+
+
+

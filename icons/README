@@ -1,0 +1,24 @@
+The icons included here are from the following themes. I plan to make my own.
+Papirus icons work well with icewm. See what antix developers do if you wish but I decided to include some more traditional looking ones.
+Not all choices are ideal but I didn't want to overthink about it.
+
+folder.png from Yaru icon theme (folder)
+restart.png from gnome icon theme (view-refresh)
+focus.png from gnome icon theme (zoom-fit-best)
+lock.png from gnome icon theme (changes-prevent)
+logout.png from gnome icon theme (system-log-out)
+run.png from gnome icon theme (system-run)
+calculator.png from Adwaita (accessories-calculator)
+dictionary.png from Adwaita (accessories-dictionary)
+app.png from Adwaita (applications-other)
+save.png from Adwaita (document-save)
+pref.png from Adwaita (emblem-system)
+help.png from Adwaita (help-browser)
+key.png from gnome (preferences-desktop-keyboard-shortcut)
+themes.png from Yaru  (preferences-color)
+programs.png from Adwaita (applications-other)
+suspend.png from elementary-xfce (system-suspend-hibernate)
+shutdown.png from elementary-xfce (system-shutdown)
+reboot.png elementary-xfce (view-refresh)
+windows.png from Yaru (desktop)
+
