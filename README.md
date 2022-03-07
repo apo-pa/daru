@@ -1,4 +1,4 @@
-# dull-icewm
+# daru
 An IceWM theme
 
 cd ~/.icewm/themes
